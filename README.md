@@ -92,6 +92,7 @@ https://github.com/fawazahmed0/currency-api
 
 * GitHub: https://github.com/mubix-dev
 * LinkedIn: https://www.linkedin.com/in/mubix-dev/
+* Live Preview: https://react-currency-converter-nine-navy.vercel.app/
 
 ---
 
